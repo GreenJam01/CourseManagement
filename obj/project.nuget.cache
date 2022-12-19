@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vN9+hWK81PmlNe1oYwfisQSEGFVWknfVPtbk6Q8XpwuI1y+jMHu7aUL9YBK/m0a/wqlC58pz5qQ+q+pwa0HJBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chaue\\source\\repos\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaue\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\syncfusion.licensing\\18.3.0.53\\syncfusion.licensing.18.3.0.53.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\syncfusion.sfradialmenu.wpf\\18.3.0.53\\syncfusion.sfradialmenu.wpf.18.3.0.53.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\syncfusion.sfschedule.wpf\\18.3.0.53\\syncfusion.sfschedule.wpf.18.3.0.53.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.3.0.53\\syncfusion.sfshared.wpf.18.3.0.53.nupkg.sha512",
+    "C:\\Users\\chaue\\.nuget\\packages\\syncfusion.shared.wpf\\18.3.0.53\\syncfusion.shared.wpf.18.3.0.53.nupkg.sha512"
+  ],
+  "logs": []
+}

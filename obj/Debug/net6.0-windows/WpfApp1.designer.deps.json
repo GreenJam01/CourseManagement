@@ -1,0 +1,189 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MaterialDesignColors/2.0.9": {
+        "runtime": {
+          "lib/net6.0/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.0.9.0",
+            "fileVersion": "2.0.9.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "dependencies": {
+          "MaterialDesignColors": "2.0.9"
+        },
+        "runtime": {
+          "lib/net6.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.6.1.0",
+            "fileVersion": "4.6.1.0"
+          }
+        }
+      },
+      "OxyPlot.Core/2.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/OxyPlot.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "OxyPlot.Wpf/2.1.2": {
+        "dependencies": {
+          "OxyPlot.Core": "2.1.2",
+          "OxyPlot.Wpf.Shared": "2.1.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OxyPlot.Wpf.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "OxyPlot.Wpf.Shared/2.1.2": {
+        "dependencies": {
+          "OxyPlot.Core": "2.1.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OxyPlot.Wpf.Shared.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/18.3.0.53": {
+        "runtime": {
+          "lib/netcoreapp5.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.3.0.53",
+            "fileVersion": "18.3.0.53"
+          }
+        }
+      },
+      "Syncfusion.SfRadialMenu.WPF/18.3.0.53": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.53",
+          "Syncfusion.SfShared.WPF": "18.3.0.53"
+        },
+        "runtime": {
+          "lib/netcoreapp5.0/Syncfusion.SfRadialMenu.WPF.dll": {
+            "assemblyVersion": "18.3500.0.53",
+            "fileVersion": "18.3500.0.53"
+          }
+        }
+      },
+      "Syncfusion.SfSchedule.WPF/18.3.0.53": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.53",
+          "Syncfusion.SfRadialMenu.WPF": "18.3.0.53",
+          "Syncfusion.SfShared.WPF": "18.3.0.53",
+          "Syncfusion.Shared.WPF": "18.3.0.53"
+        },
+        "runtime": {
+          "lib/netcoreapp5.0/Syncfusion.SfSchedule.WPF.dll": {
+            "assemblyVersion": "18.3500.0.53",
+            "fileVersion": "18.3500.0.53"
+          }
+        }
+      },
+      "Syncfusion.SfShared.WPF/18.3.0.53": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.53"
+        },
+        "runtime": {
+          "lib/netcoreapp5.0/Syncfusion.SfShared.WPF.dll": {
+            "assemblyVersion": "18.3500.0.53",
+            "fileVersion": "18.3500.0.53"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/18.3.0.53": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.53"
+        },
+        "runtime": {
+          "lib/netcoreapp5.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "18.3500.0.53",
+            "fileVersion": "18.3500.0.53"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaterialDesignColors/2.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b4tdvxPZUCKCpxeCNFnF/+2Hug2cd+/SUGYCt+RXRRrobFYZkZQsIjlbsTGy5Hup9yPMMxqFSEXGRIxCm2JZUA==",
+      "path": "materialdesigncolors/2.0.9",
+      "hashPath": "materialdesigncolors.2.0.9.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yx3RxIqkwoe1rYxoUZ2iH1YdCly+dA8YAQJ5uknsUVhyVd1rgiXEn6fmtsovGaqKRZwUXGHnh4w7kRagxa8TCg==",
+      "path": "materialdesignthemes/4.6.1",
+      "hashPath": "materialdesignthemes.4.6.1.nupkg.sha512"
+    },
+    "OxyPlot.Core/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/BuPL1Wa7ZhpKA2DBe72md+S8PgIHF+UP/NsKfO9BiheXnbns1/tqS7s2MWIR1xFy5i+PWVC67KziGPY48mNgA==",
+      "path": "oxyplot.core/2.1.2",
+      "hashPath": "oxyplot.core.2.1.2.nupkg.sha512"
+    },
+    "OxyPlot.Wpf/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-udX9T1YC5BnnTZkVSNgJqvzXLaBcZDYG32YHWlDELk1UDWQeJi0Z2jBLoIiv4hcW16N4ptYO5cGC3e8m5/z0hw==",
+      "path": "oxyplot.wpf/2.1.2",
+      "hashPath": "oxyplot.wpf.2.1.2.nupkg.sha512"
+    },
+    "OxyPlot.Wpf.Shared/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6Cj7UET7AS5gVf77+avKG+PzaKQhTdqRYbyBTCPWW9JEbAsojpNdLICjVXO+5o/HP+DjshZJ6oCFw8eyRnHtCA==",
+      "path": "oxyplot.wpf.shared/2.1.2",
+      "hashPath": "oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.3.0.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZbVF5VoHEf9a2Onp5wfxdp0hidRh2kJLOZ6UTLSE+x/9ugMejilFsgG+588Zp42JMKTRxVifqai+LZFlSMZuIw==",
+      "path": "syncfusion.licensing/18.3.0.53",
+      "hashPath": "syncfusion.licensing.18.3.0.53.nupkg.sha512"
+    },
+    "Syncfusion.SfRadialMenu.WPF/18.3.0.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z2i0HIABjrZMWiyhm/ldMdGMZAEEMwAkUQJ9u5+87D6cZ641mRKjfpVlqfoNkDwBhlzQh07JMjdf8HaG2zkwjA==",
+      "path": "syncfusion.sfradialmenu.wpf/18.3.0.53",
+      "hashPath": "syncfusion.sfradialmenu.wpf.18.3.0.53.nupkg.sha512"
+    },
+    "Syncfusion.SfSchedule.WPF/18.3.0.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jn6MJo7EkZJ7X9vH3lgrze8vOmuuvVoqGDZRpjrE19FvEOn+9TRiluVyTVLDX8CEuSXWxHjz0d2XTZeX8WfgYw==",
+      "path": "syncfusion.sfschedule.wpf/18.3.0.53",
+      "hashPath": "syncfusion.sfschedule.wpf.18.3.0.53.nupkg.sha512"
+    },
+    "Syncfusion.SfShared.WPF/18.3.0.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XA6rqkRDLnwE0rI3VGL4Q/OTQLh6WzPun+SHzxi0EMpwRX19jiukzNBredKtCU4440rtLsgZB/+8QWHTUCt7ww==",
+      "path": "syncfusion.sfshared.wpf/18.3.0.53",
+      "hashPath": "syncfusion.sfshared.wpf.18.3.0.53.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/18.3.0.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lonZSfJ4/PNjJYz2TnXEWLA7HAlRxILNG5sbj0fYDDTwvZE+7JOOkd6gP8xrm4Ab4G4E9oQlHLrTTA39cHKeQw==",
+      "path": "syncfusion.shared.wpf/18.3.0.53",
+      "hashPath": "syncfusion.shared.wpf.18.3.0.53.nupkg.sha512"
+    }
+  }
+}
